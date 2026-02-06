@@ -1,0 +1,348 @@
+[
+  {
+    "id": "1",
+    "name": "38FT Luxury Cruiser",
+    "pricePerHour": 250,
+    "regularPrice": 400,
+    "capacity": 8,
+    "crew": { "captain": 1, "crew": 2 },
+    "features": [
+      "1 Bedroom",
+      "Shower",
+      "AC Lounge",
+      "Kitchen",
+      "Sundeck",
+      "Flybridge",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about": "This 45FT premium yacht offers extra space and comfort, making it perfect for longer cruises and intimate celebrations. Featuring a spacious lounge, modern amenities, and open deck areas, it provides a relaxed yet luxurious atmosphere. Ideal for couples, families, and small groups looking for a refined yachting experience.",
+    "image": "/images/yacht12.jpg",
+    "description": "Experience the elegance of this luxurious 38FT cruiser designed for unforgettable moments on the water. Ideal for private trips, family outings, and special celebrations.",
+    "highlights": [
+      "Greeting upon arrival by captain and crew",
+      "Tailored service to meet your needs",
+      "Bluetooth, USB & AUX music system",
+      "Full kitchen with electric grill",
+      "Towels provided",
+      "Drinking water and ice",
+      "Professional onboard service"
+    ],
+    "addons": [
+      "Meals and Snacks",
+      "Live BBQ Grilling",
+      "Balloons & Decorations",
+      "Water Sports",
+      "Professional Photography",
+      "Live DJ",
+      "Live Performances",
+      "Luxury Transportation"
+    ]
+  },
+
+  {
+    "id": "2",
+    "name": "45FT Premium Yacht",
+    "pricePerHour": 350,
+    "regularPrice": 550,
+    "capacity": 10,
+    "crew": { "captain": 1, "crew": 2 },
+    "features": [
+      "2 Bedrooms",
+      "Shower",
+      "AC Lounge",
+      "Kitchen",
+      "Sundeck",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about": "This 45FT premium yacht delivers enhanced comfort and space, making it perfect for relaxed cruising and small gatherings. Featuring modern interiors, open deck areas, and smooth sailing performance, it provides a refined yachting experience for families, couples, and friends looking to enjoy the sea in style.",
+    "image": "/images/yacht2.jpg",
+    "description": "A stylish 45FT yacht perfect for relaxed cruising, family gatherings, and small celebrations.",
+    "highlights": [
+      "Experienced captain and crew",
+      "Comfortable indoor and outdoor seating",
+      "Modern sound system",
+      "Clean and spacious interiors",
+      "Complimentary water and ice"
+    ],
+    "addons": [
+      "Catering Services",
+      "Live BBQ",
+      "Decorations",
+      "Water Sports",
+      "Photography"
+    ]
+  },
+
+  {
+    "id": "3",
+    "name": "50FT Luxury Yacht",
+    "pricePerHour": 450,
+    "regularPrice": 700,
+    "capacity": 12,
+    "crew": { "captain": 1, "crew": 2 },
+    "features": [
+      "2 Bedrooms",
+      "2 Bathrooms",
+      "AC Lounge",
+      "Kitchen",
+      "Sundeck",
+      "Flybridge",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about":"Designed for premium comfort, this 50FT luxury yacht offers spacious seating, elegant interiors, and excellent onboard amenities. Ideal for celebrations, leisure cruises, and special occasions, it combines style, stability, and professional service to ensure a memorable experience on the water.",
+    "image": "/images/yacht3.jpg",
+    "description": "Spacious 50FT luxury yacht offering premium comfort and smooth cruising for special occasions.",
+    "highlights": [
+      "Elegant interiors",
+      "Spacious deck areas",
+      "High-quality sound system",
+      "Attentive crew service"
+    ],
+    "addons": [
+      "Live BBQ",
+      "Decor & Balloons",
+      "Water Activities",
+      "Photography"
+    ]
+  },
+
+  {
+    "id": "4",
+    "name": "52FT Executive Yacht",
+    "pricePerHour": 550,
+    "regularPrice": 850,
+    "capacity": 14,
+    "crew": { "captain": 1, "crew": 2 },
+    "features": [
+      "3 Bedrooms",
+      "Bathrooms",
+      "AC Lounge",
+      "Kitchen",
+      "Flybridge",
+      "Sundeck",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about":"The 52FT executive yacht is crafted for those who appreciate sophistication and space. With multiple seating areas, modern amenities, and a refined layout, it is well suited for corporate outings, private events, and luxury cruising with guests who value comfort and elegance.",
+    "image": "/images/yacht4.jpg",
+    "description": "Executive-class yacht designed for premium leisure and corporate experiences.",
+    "highlights": [
+      "Luxury seating areas",
+      "Smooth and stable cruising",
+      "Professional crew",
+      "Premium onboard amenities"
+    ],
+    "addons": [
+      "Catering",
+      "BBQ Setup",
+      "Decorations",
+      "Entertainment Services"
+    ]
+  },
+
+  {
+    "id": "5",
+    "name": "55FT Party Yacht",
+    "pricePerHour": 750,
+    "regularPrice": 1100,
+    "capacity": 22,
+    "crew": { "captain": 1, "crew": 3 },
+    "features": [
+      "Multiple Seating Areas",
+      "Large AC Lounge",
+      "Kitchen",
+      "Sundeck",
+      "Dance Area",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about": "Built for entertainment and celebrations, this 55FT party yacht offers a spacious layout, vibrant atmosphere, and ample deck space. Perfect for birthdays, private parties, and social gatherings, it delivers an energetic yet luxurious experience supported by a professional crew.",
+    "image": "/images/yacht5.jpg",
+    "description": "Ideal party yacht for birthdays, private celebrations, and social gatherings.",
+    "highlights": [
+      "Spacious party layout",
+      "High-quality sound system",
+      "Dedicated crew support",
+      "Ample deck space"
+    ],
+    "addons": [
+      "Live DJ",
+      "Decorations",
+      "BBQ & Catering",
+      "Photography",
+      "Water Sports"
+    ]
+  },
+
+  {
+    "id": "6",
+    "name": "75FT Mega Yacht",
+    "pricePerHour": 1200,
+    "regularPrice": 1800,
+    "capacity": 33,
+    "crew": { "captain": 1, "crew": 4 },
+    "features": [
+      "Multiple Cabins",
+      "Bathrooms",
+      "Large AC Lounge",
+      "Kitchen",
+      "Sundeck",
+      "Flybridge",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about":"This 75FT mega yacht is designed to host larger groups in complete luxury. Featuring expansive decks, premium interiors, and multiple entertainment zones, it is ideal for grand celebrations, corporate events, and unforgettable cruising experiences with family and friends.",
+    "image": "/images/yacht6.jpg",
+    "description": "A premium mega yacht suitable for large groups and luxury events.",
+    "highlights": [
+      "Spacious decks",
+      "Luxury interiors",
+      "Professional service crew",
+      "Ideal for events"
+    ],
+    "addons": [
+      "Full Catering",
+      "Live Entertainment",
+      "Water Activities",
+      "Luxury Transport"
+    ]
+  },
+
+  {
+    "id": "7",
+    "name": "77FT Signature Yacht",
+    "pricePerHour": 1100,
+    "regularPrice": 1600,
+    "capacity": 16,
+    "crew": { "captain": 1, "crew": 3 },
+    "features": [
+      "Luxury Cabins",
+      "Bathrooms",
+      "AC Lounge",
+      "Kitchen",
+      "Flybridge",
+      "Music System",
+      "Water",
+      "Ice"
+    ],
+    "about":"The 77FT signature yacht offers a perfect balance of privacy, comfort, and refined luxury. With elegant interiors and smooth cruising performance, it is ideal for exclusive gatherings, intimate celebrations, and guests seeking a high-end yachting experience.",
+    "image": "/images/yacht7.jpg",
+    "description": "A signature yacht offering privacy, comfort, and refined luxury.",
+    "highlights": [
+      "Exclusive interiors",
+      "Smooth cruising",
+      "Personalized service"
+    ],
+    "addons": [
+      "Chef on Board",
+      "Decorations",
+      "Photography"
+    ]
+  },
+
+  {
+    "id": "8",
+    "name": "88FT Super Yacht",
+    "pricePerHour": 2000,
+    "regularPrice": 2800,
+    "capacity": 65,
+    "crew": { "captain": 1, "crew": 5 },
+    "features": [
+      "Multiple Decks",
+      "Luxury Cabins",
+      "Bathrooms",
+      "Large Lounge",
+      "Flybridge",
+      "Entertainment System",
+      "Water",
+      "Ice"
+    ],
+    "about": "Crafted for luxury events and large celebrations, this 88FT super yacht features multiple decks, spacious lounges, and premium onboard amenities. It is perfect for hosting impressive gatherings while delivering a smooth, comfortable, and high-end cruising experience.",
+    "image": "/images/yacht8.jpg",
+    "description": "Super yacht crafted for large luxury celebrations and premium events.",
+    "highlights": [
+      "Multiple entertainment areas",
+      "Luxury comfort",
+      "Professional event support"
+    ],
+    "addons": [
+      "Live Performances",
+      "Event Decor",
+      "Catering",
+      "Photography"
+    ]
+  },
+
+  {
+    "id": "9",
+    "name": "90FT Ultra Yacht",
+    "pricePerHour": 2400,
+    "regularPrice": 3200,
+    "capacity": 80,
+    "crew": { "captain": 1, "crew": 6 },
+    "features": [
+      "Multiple Cabins",
+      "Luxury Lounge",
+      "Flybridge",
+      "Large Deck",
+      "Entertainment System",
+      "Water",
+      "Ice"
+    ],
+    "about": "The 90FT ultra yacht is built for grand-scale celebrations and corporate functions. Offering generous capacity, luxurious interiors, and professional service, it delivers an elite yachting experience designed for guests who expect excellence and comfort at sea.",
+    "image": "/images/yacht9.jpg",
+    "description": "Ultra-luxury yacht built for grand celebrations and corporate events.",
+    "highlights": [
+      "Large capacity",
+      "Premium interiors",
+      "Dedicated event crew"
+    ],
+    "addons": [
+      "Event Management",
+      "Luxury Catering",
+      "Live DJ",
+      "Water Sports"
+    ]
+  },
+
+  {
+    "id": "10",
+    "name": "120FT Royal Mega Yacht",
+    "pricePerHour": 3500,
+    "regularPrice": 5000,
+    "capacity": 90,
+    "crew": { "captain": 1, "crew": 8 },
+    "features": [
+      "Luxury Suites",
+      "Multiple Decks",
+      "Grand Lounge",
+      "Flybridge",
+      "Entertainment Zones",
+      "Water",
+      "Ice"
+    ],
+    "about":"This 120FT royal mega yacht represents the pinnacle of luxury and space. Designed for elite events, VIP gatherings, and large-scale celebrations, it offers expansive decks, premium lounges, and top-tier service to deliver a truly unforgettable yachting experience.",
+    "image": "/images/yacht10.png",
+    "description": "A royal-class mega yacht designed for elite luxury experiences and large-scale events.",
+    "highlights": [
+      "Elite luxury setup",
+      "Ideal for VIP events",
+      "Full-service crew"
+    ],
+    "addons": [
+      "VIP Catering",
+      "Luxury Transport",
+      "Live Performances",
+      "Event Production"
+    ]
+  }
+]
