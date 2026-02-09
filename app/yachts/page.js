@@ -11,7 +11,7 @@ export default function YachtsPage() {
   return (
     <section className="bg-brand min-h-screen py-20">
       {/* Page Heading */}
-      <div className="text-center mb-14 px-4">
+      <div className="text-center mb-14 px-4 mt-10">
         <h1 className="text-gold text-sm lg:text-3xl font-bold uppercase tracking-widest mb-3">
           Explore Our Luxury Yachts
         </h1>
