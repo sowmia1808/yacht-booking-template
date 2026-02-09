@@ -30,10 +30,7 @@ export async function POST(req) {
     // 💳 Create Stripe Checkout Session
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
-
-      // ✅ THIS is enough for Stripe to send receipt email
       customer_email: customer.email,
-
       line_items: [
         {
           price_data: {
@@ -42,7 +39,7 @@ export async function POST(req) {
               name: yacht.name,
               description: `${date} | ${startTime} | ${hours} hrs | ${persons} guests`,
             },
-            unit_amount: amountToPay * 100, // in fils
+            unit_amount: amountToPay * 100, 
           },
           quantity: 1,
         },

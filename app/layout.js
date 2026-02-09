@@ -30,6 +30,9 @@ export const metadata = {
     "yacht charter",
   ],
   metadataBase: new URL("https://example.com"),
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
