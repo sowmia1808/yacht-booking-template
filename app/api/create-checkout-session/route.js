@@ -37,7 +37,7 @@ export async function POST(req) {
       line_items: [
         {
           price_data: {
-            currency: "aed",
+            currency: "usd",
             product_data: {
               name: yacht.name,
               description: `${date} | ${startTime} | ${hours} hrs | ${persons} guests`,
