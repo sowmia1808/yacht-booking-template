@@ -9,7 +9,7 @@ export const metadata = {
 export default function AboutPage() {
   
   return (
-    <section className="bg-brand min-h-screen">
+    <section className="bg-brand min-h-screen ">
       {/* ================= HERO SECTION ================= */}
       <div className="relative h-[60vh] md:h-[75vh] w-full rounded-lg">
         <Image

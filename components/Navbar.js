@@ -26,13 +26,13 @@ export default function Navbar() {
   }, [open]);
 
   return (
-    <nav className="  sticky top-0 z-50">
+    <nav className=" fixed top-0 left-0 w-full z-50  transparent">
       <div className="max-w-8xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* LOGO */}
         <div className="relative -mt-5 lg:-mb-5 ">
           <Image
             src="/images/yblogo.png"
-            alt="Yacht Booking Logo"
+            alt="Yacht Booking Logo"  
             width={200}
             height={40}
             loading="eager"

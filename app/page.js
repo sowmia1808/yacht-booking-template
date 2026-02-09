@@ -20,7 +20,7 @@ export default function HomePage() {
       <Hero />
       <section className="bg-brand py-16 px-6">
         <div className="max-w-7xl mx-auto text-center">
-          <h2 className="text-gold font-bold text-2xl tracking-widest uppercase mb-3">
+          <h2 className="text-gold font-bold text-2xl tracking-widest uppercase mb-3 mt-10">
             About Us
           </h2>
 
